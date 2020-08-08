@@ -10,3 +10,8 @@ C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.exe
 C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.xml
 C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.pdb
 C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.Form1.resources
+C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.Form2.resources
+C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.Form3.resources
+C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.Form4.resources
+C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.Form5.resources
+C:\Users\chaii\source\repos\HW1\HW1\obj\Debug\HW1.Form6.resources

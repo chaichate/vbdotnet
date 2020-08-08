@@ -1,8 +1,8 @@
 ﻿Public Class Form1
     Private Sub btnOK_Click(sender As Object, e As EventArgs) Handles btnOK.Click
-        Dim base = txtBase.Text
-        Dim height = txtHeight.Text
-        Dim area = 0.5 * base * height
+        Dim base As Double = txtBase.Text
+        Dim height As Double = txtHeight.Text
+        Dim area As Double = 0.5 * base * height
 
         txtTriangleArea.Text = area
 
